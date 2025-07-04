@@ -4,7 +4,7 @@ from typing import Dict
 from langchain_ollama.chat_models import ChatOllama
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import JsonOutputParser
-from langchain_core.exceptions import OutputParserException
+import asyncio
 
 try:
     facets_df = pd.read_parquet('data/processed_facets.parquet')
@@ -53,49 +53,44 @@ PROMPT_TEMPLATE = ChatPromptTemplate.from_messages([
 
 chain = PROMPT_TEMPLATE | llm | json_parser
 
-def evaluate_conversation_turn(text: str) -> Dict:
+async def evaluate_category_async(category: str, text: str) -> Dict:
+    facets_in_category = facets_df[facets_df['category'] == category]['facet_name'].tolist()
+    facet_list_str = "\n- ".join(facets_in_category)
+
+    print(f"Evaluating category: '{category}'...")
+    try:
+        result = await chain.ainvoke({
+            "text_to_evaluate": text,
+            "category_name": category,
+            "facet_list": facet_list_str
+        })
+        print(f" Finished evaluating category: '{category}'")
+        return result
+    except Exception as e:
+        print(f" ERROR in category '{category}': {e}")
+        return {facet: {"error": str(e)} for facet in facets_in_category}
+
+async def evaluate_conversation_turn_async(text: str) -> Dict:
     if not text.strip():
-        print("Input text is empty.")
+        print("Empty text !")
         return {}
 
-    print(f"Evaluating for text: \"{text[:50]}...\"")
-    full_results = {}
-    total_facets = len(facets_df)
-    processed_facets = 0
+    print(f"Evaluating for: \"{text[:50]}...\"")
+    tasks = [evaluate_category_async(cat, text) for cat in UNIQUE_CATEGORIES]
+    results = await asyncio.gather(*tasks)
 
-    for i, category in enumerate(UNIQUE_CATEGORIES):
-        print(f"  ({i+1}/{len(UNIQUE_CATEGORIES)}) Evaluating category: '{category}'...")
+    combined = {}
+    for partial in results:
+        combined.update(partial)
 
-        facets_in_category = facets_df[facets_df['category'] == category]['facet_name'].tolist()
-        facet_list_str = "\n- ".join(facets_in_category)
-
-        try:
-            response_data = chain.invoke({
-                "text_to_evaluate": text,
-                "category_name": category,
-                "facet_list": facet_list_str
-            })
-
-            full_results.update(response_data)
-            processed_facets += len(facets_in_category)
-            print(f" category: '{category}' : {processed_facets}/{total_facets} facets scored.")
-
-        except (OutputParserException, json.JSONDecodeError) as e:
-            print(f" ERROR: Parsing failed for category '{category}'. ERROR DETAILS : {e}")
-            for facet_name in facets_in_category:
-                full_results[facet_name] = {"error": "Failed to parse LLM response."}
-
-        except Exception as e:
-            print(f" ERROR: for '{category}'. Details: {e}")
-            for facet_name in facets_in_category:
-                full_results[facet_name] = {"error": f"Unexpected error: {e}"}
-
-    print("Evaluation complete.")
-    return full_results
+    print("All categories evaluated.")
+    return combined
 
 if __name__ == '__main__':
-    test_text = "This service is terrible. I have been on hold for 45 minutes and I am extremely angry."
-    results = evaluate_conversation_turn(test_text)
-    
-    print("--- FULL EVALUATION RESULTS ---")
-    print(json.dumps(results, indent=2))
+    async def main():
+        test_text = "This service is terrible. I have been on hold for 45 minutes and I am extremely angry."
+        results = await evaluate_conversation_turn_async(test_text)
+        print("\n--- FINAL RESULTS ---")
+        print(json.dumps(results, indent=2))
+
+    asyncio.run(main())
