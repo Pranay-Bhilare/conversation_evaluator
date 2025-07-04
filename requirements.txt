@@ -2,3 +2,9 @@ pandas
 langchain
 ollama
 python-dotenv
+pyarrow
+fastparquet
+langchain-community
+scikit-learn
+langchain-ollama
+numpy
