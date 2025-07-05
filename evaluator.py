@@ -5,6 +5,7 @@ from langchain_ollama.chat_models import ChatOllama
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import JsonOutputParser
 import asyncio
+import os
 
 try:
     facets_df = pd.read_parquet('data/processed_facets.parquet')
@@ -13,11 +14,17 @@ except FileNotFoundError:
     print("file not found.")
     exit()
 
+IS_DOCKER = os.environ.get("RUNNING_IN_DOCKER") == "1"
+
+OLLAMA_HOST = (
+    "http://host.docker.internal:11434" if IS_DOCKER else "http://localhost:11434"
+)
 llm = ChatOllama(
     model="llama3",
     temperature=0.0,
     format="json",
-    request_timeout=120.0
+    request_timeout=120.0,
+    base_url = OLLAMA_HOST
 )
 
 json_parser = JsonOutputParser()

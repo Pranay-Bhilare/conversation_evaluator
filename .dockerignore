@@ -1,0 +1,21 @@
+# .dockerignore
+
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+
+# Git
+.git/
+.gitignore
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+
+# Data we don't need to copy into the image
+*.csv
+*.json
+conversation_dataset/

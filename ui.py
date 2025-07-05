@@ -16,8 +16,8 @@ if st.button("Evaluate Text", type="primary"):
     if text_to_evaluate.strip():
         with st.spinner("Evaluating asynchronously....."):
             results = asyncio.run(evaluate_conversation_turn_async(text_to_evaluate))
-            with open("results_1.json", "w") as f:
-                json.dump(results, f, indent=2)
+            # with open("results_1.json", "w") as f:
+            #     json.dump(results, f, indent=2)
         st.success("Evaluation done")
         
         st.subheader("Full results")
