@@ -9,3 +9,6 @@ wheels/
 # Virtual environments
 .venv
 .env
+
+50_turns_result
+50_CONVO.PY

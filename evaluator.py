@@ -1,5 +1,4 @@
 import pandas as pd
-import json
 from typing import Dict
 from langchain_ollama.chat_models import ChatOllama
 from langchain_core.prompts import ChatPromptTemplate
@@ -92,12 +91,3 @@ async def evaluate_conversation_turn_async(text: str) -> Dict:
 
     print("All categories evaluated.")
     return combined
-
-# if __name__ == '__main__':
-#     async def main():
-#         test_text = "This service is terrible. I have been on hold for 45 minutes and I am extremely angry."
-#         results = await evaluate_conversation_turn_async(test_text)
-#         print("\n--- FINAL RESULTS ---")
-#         print(json.dumps(results, indent=2))
-
-#     asyncio.run(main())
