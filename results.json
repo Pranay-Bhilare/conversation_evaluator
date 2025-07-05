@@ -1,0 +1,1942 @@
+{
+  "Risktaking": {
+    "score": 1,
+    "justification": "The text does not demonstrate any risk-taking behavior.",
+    "confidence": 5
+  },
+  "Naivety": {
+    "score": 2,
+    "justification": "The text shows some degree of frustration and anger, but it's not naive or overly trusting.",
+    "confidence": 4
+  },
+  "Overprotectiveness": {
+    "score": 1,
+    "justification": "There is no indication of overprotective behavior in the text.",
+    "confidence": 5
+  },
+  "Merriness": {
+    "score": 2,
+    "justification": "The tone of the text is more frustrated and angry than merry or joyful.",
+    "confidence": 4
+  },
+  "Cunningness": {
+    "score": 1,
+    "justification": "There is no indication of cunning behavior in the text.",
+    "confidence": 5
+  },
+  "Genuine": {
+    "score": 3,
+    "justification": "The text expresses a genuine feeling of frustration and anger, but it's not overly dramatic or insincere.",
+    "confidence": 4
+  },
+  "Determinedness": {
+    "score": 2,
+    "justification": "The text shows some degree of determination to express one's feelings, but it's not a strong demonstration of determination.",
+    "confidence": 4
+  },
+  "Honesty Humility": {
+    "score": 3,
+    "justification": "The text expresses honest emotions and frustration, but it's not overly humble or self-effacing.",
+    "confidence": 4
+  },
+  "Openness": {
+    "score": 2,
+    "justification": "The text is open about one's feelings of frustration and anger, but it's not a strong demonstration of openness to new ideas or experiences.",
+    "confidence": 4
+  },
+  "Big-heartedness": {
+    "score": 1,
+    "justification": "There is no indication of big-heartedness or generosity in the text.",
+    "confidence": 5
+  },
+  "Chivalrousness": {
+    "score": 1,
+    "justification": "There is no indication of chivalrous behavior in the text.",
+    "confidence": 5
+  },
+  "Sensitiveness": {
+    "score": 2,
+    "justification": "The text shows some degree of sensitivity to one's emotions and frustration, but it's not overly sensitive or emotional.",
+    "confidence": 4
+  },
+  "Creative risk-taking tendency": {
+    "score": 1,
+    "justification": "There is no indication of creative risk-taking in the text.",
+    "confidence": 5
+  },
+  "Character strength: Perseverance": {
+    "score": 2,
+    "justification": "The text shows some degree of perseverance in expressing one's feelings, but it's not a strong demonstration of perseverance.",
+    "confidence": 4
+  },
+  "Sportsmanship rating": {
+    "score": 1,
+    "justification": "There is no indication of sportsmanship or fair play in the text.",
+    "confidence": 5
+  },
+  "Immaturity": {
+    "score": 2,
+    "justification": "The text shows some degree of immaturity in expressing frustration and anger, but it's not a strong demonstration of immaturity.",
+    "confidence": 4
+  },
+  "High-spiritedness": {
+    "score": 1,
+    "justification": "There is no indication of high-spiritedness or enthusiasm in the text.",
+    "confidence": 5
+  },
+  "Neuroticism": {
+    "score": 2,
+    "justification": "The text shows some degree of neurotic behavior in expressing frustration and anger, but it's not a strong demonstration of neuroticism.",
+    "confidence": 4
+  },
+  "Cantankerousness": {
+    "score": 3,
+    "justification": "The text expresses cantankerous feelings of frustration and anger, but it's not overly aggressive or confrontational.",
+    "confidence": 4
+  },
+  "Bravery": {
+    "score": 2,
+    "justification": "The text shows some degree of bravery in expressing one's feelings, but it's not a strong demonstration of bravery.",
+    "confidence": 4
+  },
+  "Rebelliousness": {
+    "score": 1,
+    "justification": "There is no indication of rebellious behavior in the text.",
+    "confidence": 5
+  },
+  "Outspokenness": {
+    "score": 3,
+    "justification": "The text expresses outspoken feelings of frustration and anger, but it's not overly aggressive or confrontational.",
+    "confidence": 4
+  },
+  "Withdrawnness": {
+    "score": 1,
+    "justification": "There is no indication of withdrawn behavior in the text.",
+    "confidence": 5
+  },
+  "Perseverance": {
+    "score": 2,
+    "justification": "The text shows some degree of perseverance in expressing one's feelings, but it's not a strong demonstration of perseverance.",
+    "confidence": 4
+  },
+  "Courageousness": {
+    "score": 2,
+    "justification": "The text shows some degree of courageous behavior in expressing one's feelings, but it's not a strong demonstration of courageousness.",
+    "confidence": 4
+  },
+  "Brazenness": {
+    "score": 1,
+    "justification": "There is no indication of brazen behavior in the text.",
+    "confidence": 5
+  },
+  "Originality": {
+    "score": 1,
+    "justification": "There is no indication of original behavior or thinking in the text.",
+    "confidence": 5
+  },
+  "Fearfulness: Fear of physical dangers": {
+    "score": 1,
+    "justification": "There is no indication of fearfulness or fear of physical dangers in the text.",
+    "confidence": 5
+  },
+  "Collectedness": {
+    "score": 2,
+    "justification": "The text shows some degree of collectedness in expressing one's feelings, but it's not a strong demonstration of collectedness.",
+    "confidence": 4
+  },
+  "Attachment style: Secure": {
+    "score": 1,
+    "justification": "There is no indication of secure attachment style in the text.",
+    "confidence": 5
+  },
+  "Conscientiousness Facets": {
+    "score": 2,
+    "justification": "The text shows some degree of conscientious behavior in expressing one's feelings, but it's not a strong demonstration of conscientiousness.",
+    "confidence": 4
+  },
+  "Honesty-humility trait score": {
+    "score": 3,
+    "justification": "The text expresses honest emotions and frustration, showing some degree of humility.",
+    "confidence": 4
+  },
+  "Genialness": {
+    "score": 1,
+    "justification": "There is no indication of genial behavior in the text.",
+    "confidence": 5
+  },
+  "Persistence": {
+    "score": 2,
+    "justification": "The text shows some degree of persistence in expressing one's feelings, but it's not a strong demonstration of persistence.",
+    "confidence": 4
+  },
+  "Psychological construct: Perfectionistic Strivings": {
+    "score": 1,
+    "justification": "There is no indication of perfectionistic strivings in the text.",
+    "confidence": 5
+  },
+  "Servility": {
+    "score": 1,
+    "justification": "There is no indication of servile behavior in the text.",
+    "confidence": 5
+  },
+  "Enneagram Personality Types": {
+    "score": 1,
+    "justification": "There is no indication of Enneagram personality types in the text.",
+    "confidence": 5
+  },
+  "Defense-mechanism tendency: Introjection": {
+    "score": 1,
+    "justification": "There is no indication of introjective defense mechanism in the text.",
+    "confidence": 5
+  },
+  "H E X A C O domain: Honesty-Humility": {
+    "score": 3,
+    "justification": "The text expresses honest emotions and frustration, showing some degree of humility.",
+    "confidence": 4
+  },
+  "Quirkiness": {
+    "score": 1,
+    "justification": "There is no indication of quirky behavior in the text.",
+    "confidence": 5
+  },
+  "Conformity": {
+    "score": 2,
+    "justification": "The text shows some degree of conformity to expressing one's feelings, but it's not a strong demonstration of conformity.",
+    "confidence": 4
+  },
+  "Flawlessness": {
+    "score": 1,
+    "justification": "There is no indication of flawlessness or perfection in the text.",
+    "confidence": 5
+  },
+  "Doggedness": {
+    "score": 2,
+    "justification": "The text shows some degree of doggedness in expressing one's feelings, but it's not a strong demonstration of doggedness.",
+    "confidence": 4
+  },
+  "Decency": {
+    "score": 3,
+    "justification": "The text expresses decent and honest emotions, showing some degree of moral integrity.",
+    "confidence": 4
+  },
+  "Acidity": {
+    "score": 2,
+    "justification": "The text expresses strong negative emotions, but does not contain any explicit acidic or confrontational language.",
+    "confidence": 4
+  },
+  "Democratic Leadership": {
+    "score": 1,
+    "justification": "There is no mention of leadership or democratic principles in the given text.",
+    "confidence": 5
+  },
+  "Hesitation": {
+    "score": 3,
+    "justification": "The customer's frustration and anger suggest a sense of urgency, but there is no explicit hesitation mentioned.",
+    "confidence": 4
+  },
+  "Pure Challenge": {
+    "score": 1,
+    "justification": "There is no mention of challenge or competition in the given text.",
+    "confidence": 5
+  },
+  "Comparing alphanumeric data": {
+    "score": 1,
+    "justification": "The text does not involve any comparison or analysis of numerical data.",
+    "confidence": 5
+  },
+  "F S H level": {
+    "score": 1,
+    "justification": "There is no mention of FSH levels or hormone-related concepts in the given text.",
+    "confidence": 5
+  },
+  "Desperation": {
+    "score": 4,
+    "justification": "The customer's anger and frustration suggest a sense of desperation due to their prolonged wait time.",
+    "confidence": 4
+  },
+  "Pilgrimage participation count": {
+    "score": 1,
+    "justification": "There is no mention of pilgrimages or religious activities in the given text.",
+    "confidence": 5
+  },
+  "Training-cycle length": {
+    "score": 1,
+    "justification": "The text does not involve any discussion of training cycles or professional development.",
+    "confidence": 5
+  },
+  "Subscription count": {
+    "score": 1,
+    "justification": "There is no mention of subscriptions or membership plans in the given text.",
+    "confidence": 5
+  },
+  "Multiculturalism": {
+    "score": 1,
+    "justification": "The text does not involve any discussion of cultural diversity or multiculturalism.",
+    "confidence": 5
+  },
+  "Inefficiency": {
+    "score": 3,
+    "justification": "The customer's frustration with the service suggests inefficiency, but it is not explicitly stated.",
+    "confidence": 4
+  },
+  "Sustainable-transport usage": {
+    "score": 1,
+    "justification": "There is no mention of sustainable transportation or environmental concerns in the given text.",
+    "confidence": 5
+  },
+  "Dishonesty": {
+    "score": 2,
+    "justification": "The customer's anger and frustration suggest a sense of betrayal, but there is no explicit dishonesty mentioned.",
+    "confidence": 4
+  },
+  "Estimating Calculations": {
+    "score": 1,
+    "justification": "The text does not involve any estimation or calculation-related concepts.",
+    "confidence": 5
+  },
+  "Slothfulness": {
+    "score": 1,
+    "justification": "There is no mention of laziness or slothfulness in the given text.",
+    "confidence": 5
+  },
+  "Liberalism": {
+    "score": 1,
+    "justification": "The text does not involve any discussion of political ideologies or liberalism.",
+    "confidence": 5
+  },
+  "Martyrdom": {
+    "score": 1,
+    "justification": "There is no mention of martyrdom or self-sacrifice in the given text.",
+    "confidence": 5
+  },
+  "Seeking approval": {
+    "score": 2,
+    "justification": "The customer's frustration and anger suggest a desire for resolution, but there is no explicit seeking of approval mentioned.",
+    "confidence": 4
+  },
+  "Independence": {
+    "score": 1,
+    "justification": "There is no mention of independence or autonomy in the given text.",
+    "confidence": 5
+  },
+  "Chromatin-accessibility score": {
+    "score": 1,
+    "justification": "There is no mention of chromatin accessibility or genetic concepts in the given text.",
+    "confidence": 5
+  },
+  "Serotonin transporter availability": {
+    "score": 1,
+    "justification": "The text does not involve any discussion of neurotransmitters or serotonin transporters.",
+    "confidence": 5
+  },
+  "Data-sharing consent level": {
+    "score": 1,
+    "justification": "There is no mention of data sharing or consent in the given text.",
+    "confidence": 5
+  },
+  "Vision-check frequency": {
+    "score": 1,
+    "justification": "The text does not involve any discussion of vision checks or medical procedures.",
+    "confidence": 5
+  },
+  "Satya Adherence": {
+    "score": 1,
+    "justification": "There is no mention of satya adherence or yoga-related concepts in the given text.",
+    "confidence": 5
+  },
+  "Hypomania (Ma)": {
+    "score": 1,
+    "justification": "The text does not involve any discussion of mental health conditions like hypomania.",
+    "confidence": 5
+  },
+  "Binding foundations index": {
+    "score": 1,
+    "justification": "There is no mention of binding foundations or scientific concepts in the given text.",
+    "confidence": 5
+  },
+  "Ego Dissolution Frequency": {
+    "score": 1,
+    "justification": "The text does not involve any discussion of ego dissolution or spiritual practices.",
+    "confidence": 5
+  },
+  "Submission": {
+    "score": 2,
+    "justification": "The customer's frustration and anger suggest a sense of submission to the service provider's inefficiency.",
+    "confidence": 4
+  },
+  "Volunteer Work": {
+    "score": 1,
+    "justification": "There is no mention of volunteer work or community service in the given text.",
+    "confidence": 5
+  },
+  "Use of Mathematical Formulas": {
+    "score": 1,
+    "justification": "The text does not involve any discussion of mathematical formulas or calculations.",
+    "confidence": 5
+  },
+  "Sensitivity": {
+    "score": 3,
+    "justification": "The customer's emotional response to the service suggests sensitivity, but it is not explicitly stated.",
+    "confidence": 4
+  },
+  "Dauntlessness": {
+    "score": 1,
+    "justification": "There is no mention of dauntlessness or bravery in the given text.",
+    "confidence": 5
+  },
+  "Hysteria (Hy)": {
+    "score": 2,
+    "justification": "The customer's anger and frustration suggest a sense of emotional turmoil, but it is not explicitly stated as hysteria.",
+    "confidence": 4
+  },
+  "Ardency": {
+    "score": 3,
+    "justification": "The customer's strong emotions and language suggest ardeness, but it is not explicitly stated.",
+    "confidence": 4
+  },
+  "Controlling Reactions": {
+    "score": 1,
+    "justification": "There is no mention of controlling reactions or emotional regulation in the given text.",
+    "confidence": 5
+  },
+  "Passport-stamps count": {
+    "score": 1,
+    "justification": "There is no mention of passport stamps or travel-related concepts in the given text.",
+    "confidence": 5
+  },
+  "Local-food sourcing %": {
+    "score": 1,
+    "justification": "The text does not involve any discussion of food sourcing or sustainability.",
+    "confidence": 5
+  },
+  "Graffiti appreciation": {
+    "score": 1,
+    "justification": "There is no mention of graffiti or art-related concepts in the given text.",
+    "confidence": 5
+  },
+  "Preference for Home-Cooked vs Restaurant Meals": {
+    "score": 1,
+    "justification": "The text does not involve any discussion of food preferences or culinary habits.",
+    "confidence": 5
+  },
+  "Immune-response age": {
+    "score": 1,
+    "justification": "There is no mention of immune responses or medical concepts in the given text.",
+    "confidence": 5
+  },
+  "Abasement": {
+    "score": 2,
+    "justification": "The customer's frustration and anger suggest a sense of abasement due to their prolonged wait time.",
+    "confidence": 4
+  },
+  "Basophil count": {
+    "score": 1,
+    "justification": "There is no mention of basophils or blood-related concepts in the given text.",
+    "confidence": 5
+  },
+  "Attachment avoidance score": {
+    "score": 1,
+    "justification": "The text does not involve any discussion of attachment styles or psychological concepts.",
+    "confidence": 5
+  },
+  "Dance rehearsal hours/week": {
+    "score": 1,
+    "justification": "There is no mention of dance rehearsals or performance-related concepts in the given text.",
+    "confidence": 5
+  },
+  "Public-transport km/week": {
+    "score": 1,
+    "justification": "The text does not involve any discussion of public transportation or commuting habits.",
+    "confidence": 5
+  },
+  "Reliance on context": {
+    "score": 2,
+    "justification": "The customer's frustration and anger suggest a reliance on the service provider to resolve their issue.",
+    "confidence": 4
+  },
+  "Open-source contributions": {
+    "score": 1,
+    "justification": "There is no mention of open-source projects or software development in the given text.",
+    "confidence": 5
+  },
+  "Peer-to-peer lending usage": {
+    "score": 1,
+    "justification": "The text does not involve any discussion of peer-to-peer lending or financial concepts.",
+    "confidence": 5
+  },
+  "Digital-nomad months": {
+    "score": 1,
+    "justification": "There is no mention of digital nomadism or remote work in the given text.",
+    "confidence": 5
+  },
+  "Cloud-backup frequency": {
+    "score": 1,
+    "justification": "The text does not involve any discussion of cloud backup or data storage.",
+    "confidence": 5
+  },
+  "Safety compliance": {
+    "score": 1,
+    "justification": "There is no mention of safety regulations or compliance in the given text.",
+    "confidence": 5
+  },
+  "Breakfast-skipping frequency": {
+    "score": 1,
+    "justification": "The text does not involve any discussion of breakfast habits or dietary choices.",
+    "confidence": 5
+  },
+  "Choir participation years": {
+    "score": 1,
+    "justification": "There is no mention of choir participation or musical activities in the given text.",
+    "confidence": 5
+  },
+  "Vivacity": {
+    "score": 2,
+    "justification": "The customer's strong emotions and language suggest vivacity, but it is not explicitly stated.",
+    "confidence": 4
+  },
+  "Sleep Apnea": {
+    "score": 1,
+    "justification": "There is no mention of sleep apnea or medical conditions in the given text.",
+    "confidence": 5
+  },
+  "Hatefulness": {
+    "score": 2,
+    "justification": "The customer's anger and frustration suggest a sense of hateful feelings towards the service provider.",
+    "confidence": 4
+  },
+  "Wake-time consistency": {
+    "score": 1,
+    "justification": "There is no mention of wake time or sleep schedules in the given text.",
+    "confidence": 5
+  },
+  "Gamified-finance-app usage": {
+    "score": 1,
+    "justification": "The text does not involve any discussion of gamified finance apps or financial technology.",
+    "confidence": 5
+  },
+  "Avoiding": {
+    "score": 2,
+    "justification": "The customer's frustration and anger suggest a sense of avoiding the service provider due to their inefficiency.",
+    "confidence": 4
+  },
+  "Spelling Accuracy": {
+    "score": 1,
+    "justification": "There is no mention of spelling accuracy or language-related concepts in the given text.",
+    "confidence": 5
+  },
+  "Processed-food frequency": {
+    "score": 1,
+    "justification": "The text does not involve any discussion of food processing or dietary choices.",
+    "confidence": 5
+  },
+  "Common-sense": {
+    "score": 1,
+    "justification": "The text does not demonstrate any common sense as it only expresses frustration and anger without providing a constructive solution.",
+    "confidence": 5
+  },
+  "Disrespect": {
+    "score": 4,
+    "justification": "Although the tone is negative, the language used is not intentionally disrespectful towards others.",
+    "confidence": 4
+  },
+  "Justice-mindedness": {
+    "score": 2,
+    "justification": "The text expresses frustration with a service, but it does not demonstrate a clear understanding of justice or fairness.",
+    "confidence": 3
+  },
+  "Ethical standards": {
+    "score": 1,
+    "justification": "The text does not mention any ethical standards or principles being followed or violated.",
+    "confidence": 5
+  },
+  "Impartial-mindedness": {
+    "score": 2,
+    "justification": "The text expresses a personal opinion and bias towards the service, but it does not demonstrate impartiality in its assessment.",
+    "confidence": 3
+  },
+  "Ethical leadership rating": {
+    "score": 1,
+    "justification": "There is no mention of leadership or any ethical standards being followed by leaders.",
+    "confidence": 5
+  },
+  "Spiritual virtue: Humility practice index": {
+    "score": 1,
+    "justification": "The text does not demonstrate humility or spiritual virtues in its expression of frustration.",
+    "confidence": 5
+  },
+  "Compassion": {
+    "score": 2,
+    "justification": "Although the tone is negative, the language used does not demonstrate a lack of compassion towards others.",
+    "confidence": 3
+  },
+  "Self-righteousness": {
+    "score": 4,
+    "justification": "The text expresses frustration and anger without acknowledging any personal responsibility or self-reflection.",
+    "confidence": 4
+  },
+  "Dignity": {
+    "score": 2,
+    "justification": "The text does not demonstrate dignity in its expression of frustration, but it is not intentionally disrespectful either.",
+    "confidence": 3
+  },
+  "Ethnocentrism": {
+    "score": 1,
+    "justification": "There is no mention of any cultural or ethnic biases in the text.",
+    "confidence": 5
+  },
+  "Moral and Ethical Parameters": {
+    "score": 1,
+    "justification": "The text does not provide any moral or ethical parameters for evaluating the situation.",
+    "confidence": 5
+  },
+  "Conservatism": {
+    "score": 2,
+    "justification": "The text expresses frustration with a service, but it does not demonstrate any conservative values or principles.",
+    "confidence": 3
+  },
+  "Value orientation: Universalism": {
+    "score": 1,
+    "justification": "There is no mention of universal values or principles in the text.",
+    "confidence": 5
+  },
+  "Judging Consequences": {
+    "score": 2,
+    "justification": "The text expresses frustration with a service, but it does not demonstrate an understanding of the consequences of its actions.",
+    "confidence": 3
+  },
+  "Harmfulness": {
+    "score": 4,
+    "justification": "Although the tone is negative, the language used does not intentionally cause harm to others.",
+    "confidence": 4
+  },
+  "Equitableness": {
+    "score": 2,
+    "justification": "The text expresses frustration with a service, but it does not demonstrate equitableness in its assessment.",
+    "confidence": 3
+  },
+  "Impudence": {
+    "score": 4,
+    "justification": "Although the tone is negative, the language used does not intentionally show impudence towards others.",
+    "confidence": 4
+  },
+  "Ethical practices": {
+    "score": 1,
+    "justification": "There is no mention of any ethical practices being followed or violated in the text.",
+    "confidence": 5
+  },
+  "Patriotism": {
+    "score": 1,
+    "justification": "There is no mention of patriotism or national pride in the text.",
+    "confidence": 5
+  },
+  "Trust in others": {
+    "score": 2,
+    "justification": "The text expresses frustration with a service, but it does not demonstrate trust in others or any lack thereof.",
+    "confidence": 3
+  },
+  "Alignment with societal roles": {
+    "score": 1,
+    "justification": "There is no mention of societal roles or expectations being followed or violated in the text.",
+    "confidence": 5
+  },
+  "Discontentment": {
+    "score": 5,
+    "justification": "The text strongly and clearly demonstrates discontentment through the use of strong language such as 'terrible' and 'extremely angry'",
+    "confidence": 5
+  },
+  "Emotionalism": {
+    "score": 4,
+    "justification": "The text shows a moderate level of emotionalism through the expression of intense emotions like anger",
+    "confidence": 4
+  },
+  "Compassion Fatigue": {
+    "score": 1,
+    "justification": "There is no indication of compassion fatigue in the text",
+    "confidence": 5
+  },
+  "Moroseness": {
+    "score": 2,
+    "justification": "The text shows a low level of moroseness through the expression of anger rather than sadness or hopelessness",
+    "confidence": 4
+  },
+  "Presence of Spiritual Pain": {
+    "score": 1,
+    "justification": "There is no indication of spiritual pain in the text",
+    "confidence": 5
+  },
+  "Negative Affect Frequency": {
+    "score": 5,
+    "justification": "The text strongly and clearly demonstrates a high frequency of negative affect through the expression of anger and discontentment",
+    "confidence": 5
+  },
+  "Feedback-giving frequency": {
+    "score": 1,
+    "justification": "There is no indication of feedback-giving in the text",
+    "confidence": 5
+  },
+  "Enthusiasm": {
+    "score": 1,
+    "justification": "There is no indication of enthusiasm in the text",
+    "confidence": 5
+  },
+  "Depression Symptoms": {
+    "score": 2,
+    "justification": "The text shows a low level of depression symptoms through the expression of anger and discontentment rather than sadness or hopelessness",
+    "confidence": 4
+  },
+  "Emotional-intelligence measure: Impulsiveness": {
+    "score": 1,
+    "justification": "There is no indication of impulsiveness in the text",
+    "confidence": 5
+  },
+  "Depression: Feelings of sadness and hopelessness": {
+    "score": 2,
+    "justification": "The text shows a low level of depression symptoms through the expression of anger rather than sadness or hopelessness",
+    "confidence": 4
+  },
+  "Burnout Symptoms": {
+    "score": 1,
+    "justification": "There is no indication of burnout symptoms in the text",
+    "confidence": 5
+  },
+  "Happiness": {
+    "score": 1,
+    "justification": "There is no indication of happiness in the text",
+    "confidence": 5
+  },
+  "Contentment Levels": {
+    "score": 1,
+    "justification": "The text shows a low level of contentment through the expression of discontentment and anger",
+    "confidence": 4
+  },
+  "Inversion comfort level": {
+    "score": 1,
+    "justification": "There is no indication of inversion comfort level in the text",
+    "confidence": 5
+  },
+  "Well-being component: Engagement": {
+    "score": 1,
+    "justification": "There is no indication of engagement in the text",
+    "confidence": 5
+  },
+  "General Mood and Attitude": {
+    "score": 2,
+    "justification": "The text shows a low level of general mood and attitude through the expression of anger and discontentment",
+    "confidence": 4
+  },
+  "Childhood Experiences": {
+    "score": 1,
+    "justification": "There is no indication of childhood experiences in the text",
+    "confidence": 5
+  },
+  "Emotional Boundaries": {
+    "score": 1,
+    "justification": "There is no indication of emotional boundaries in the text",
+    "confidence": 5
+  },
+  "Psychological construct: Hope scale": {
+    "score": 1,
+    "justification": "There is no indication of hope scale in the text",
+    "confidence": 5
+  },
+  "Depression (D E P)": {
+    "score": 2,
+    "justification": "The text shows a low level of depression symptoms through the expression of anger and discontentment rather than sadness or hopelessness",
+    "confidence": 4
+  },
+  "Exemplariness": {
+    "score": 1,
+    "justification": "There is no indication of exemplariness in the text",
+    "confidence": 5
+  },
+  "Psychological construct: Self-Compassion total": {
+    "score": 1,
+    "justification": "There is no indication of self-compassion total in the text",
+    "confidence": 5
+  },
+  "Psychological construct: Acculturative Stress score": {
+    "score": 1,
+    "justification": "There is no indication of acculturative stress score in the text",
+    "confidence": 5
+  },
+  "Warmheartedness": {
+    "score": 1,
+    "justification": "There is no indication of warmheartedness in the text",
+    "confidence": 5
+  },
+  "Blissfulness": {
+    "score": 1,
+    "justification": "There is no indication of blissfulness in the text",
+    "confidence": 5
+  },
+  "Aesthetic Appreciation": {
+    "score": 1,
+    "justification": "There is no indication of aesthetic appreciation in the text",
+    "confidence": 5
+  },
+  "Boredom Susceptibility": {
+    "score": 1,
+    "justification": "There is no indication of boredom susceptibility in the text",
+    "confidence": 5
+  },
+  "Psychological construct: Consummatory Pleasure scale": {
+    "score": 1,
+    "justification": "There is no indication of consummatory pleasure scale in the text",
+    "confidence": 5
+  },
+  "I Ching hexagram 36 resonance level": {
+    "score": 1,
+    "justification": "There is no indication of I Ching hexagram 36 resonance level in the text",
+    "confidence": 5
+  },
+  "Affinity": {
+    "score": 1,
+    "justification": "There is no indication of affinity in the text",
+    "confidence": 5
+  },
+  "Chronic pain presence": {
+    "score": 1,
+    "justification": "There is no indication of chronic pain presence in the text",
+    "confidence": 5
+  },
+  "Joyfulness": {
+    "score": 1,
+    "justification": "There is no indication of joyfulness in the text",
+    "confidence": 5
+  },
+  "I Ching hexagram 43 resonance level": {
+    "score": 1,
+    "justification": "There is no indication of I Ching hexagram 43 resonance level in the text",
+    "confidence": 5
+  },
+  "I Ching hexagram 19 resonance level": {
+    "score": 1,
+    "justification": "There is no indication of I Ching hexagram 19 resonance level in the text",
+    "confidence": 5
+  },
+  "I Ching hexagram 49 resonance level": {
+    "score": 1,
+    "justification": "There is no indication of I Ching hexagram 49 resonance level in the text",
+    "confidence": 5
+  },
+  "Managing emotions": {
+    "score": 2,
+    "justification": "The text shows a low level of managing emotions through the expression of anger and discontentment",
+    "confidence": 4
+  },
+  "I Ching hexagram 22 resonance level": {
+    "score": 1,
+    "justification": "There is no indication of I Ching hexagram 22 resonance level in the text",
+    "confidence": 5
+  },
+  "Use of Nature as a Stress Reliever": {
+    "score": 1,
+    "justification": "There is no indication of use of nature as a stress reliever in the text",
+    "confidence": 5
+  },
+  "Religious coping \u2013 Negative": {
+    "score": 1,
+    "justification": "There is no indication of religious coping \u2013 negative in the text",
+    "confidence": 5
+  },
+  "Aura-color perception": {
+    "score": 1,
+    "justification": "There is no indication of aura-color perception in the text",
+    "confidence": 5
+  },
+  "Drollness": {
+    "score": 1,
+    "justification": "There is no indication of drollness in the text",
+    "confidence": 5
+  },
+  "Effeteness": {
+    "score": 1,
+    "justification": "There is no indication of effeteness in the text",
+    "confidence": 5
+  },
+  "I Ching hexagram 24 resonance level": {
+    "score": 1,
+    "justification": "There is no indication of I Ching hexagram 24 resonance level in the text",
+    "confidence": 5
+  },
+  "Stress Recovery Ability": {
+    "score": 1,
+    "justification": "There is no indication of stress recovery ability in the text",
+    "confidence": 5
+  },
+  "Irritability": {
+    "score": 4,
+    "justification": "The text shows a moderate level of irritability through the expression of anger and discontentment",
+    "confidence": 4
+  },
+  "Comfort with Vulnerability": {
+    "score": 1,
+    "justification": "There is no indication of comfort with vulnerability in the text",
+    "confidence": 5
+  },
+  "Type of Support Preferred (Emotional vs. Practical)": {
+    "score": 1,
+    "justification": "There is no indication of type of support preferred in the text",
+    "confidence": 5
+  },
+  "Patience: Resistance to anger": {
+    "score": 2,
+    "justification": "The text shows a low level of patience through the expression of anger and discontentment",
+    "confidence": 4
+  },
+  "Peacefulness": {
+    "score": 1,
+    "justification": "There is no indication of peacefulness in the text",
+    "confidence": 5
+  },
+  "Self-improvement": {
+    "score": 2,
+    "justification": "The text shows a desire for self-improvement by expressing frustration with the service and seeking change.",
+    "confidence": 4
+  },
+  "Self Esteem": {
+    "score": 1,
+    "justification": "The text does not demonstrate any positive or negative statements about one's own self-esteem.",
+    "confidence": 5
+  },
+  "Self Perspective": {
+    "score": 2,
+    "justification": "The text shows a clear perspective on the situation by expressing anger and frustration.",
+    "confidence": 4
+  },
+  "Unassertiveness": {
+    "score": 1,
+    "justification": "The text does not demonstrate any lack of assertiveness or inability to express oneself effectively.",
+    "confidence": 5
+  },
+  "Selfcontrol": {
+    "score": 2,
+    "justification": "The text shows a loss of control due to frustration and anger, but it is not a persistent trait.",
+    "confidence": 4
+  },
+  "Self Directedness": {
+    "score": 3,
+    "justification": "The text demonstrates some level of self-directedness by taking the initiative to express dissatisfaction with the service.",
+    "confidence": 5
+  },
+  "Esteem Needs": {
+    "score": 2,
+    "justification": "The text shows a need for validation and recognition through expressing anger and frustration.",
+    "confidence": 4
+  },
+  "Self-effacement": {
+    "score": 1,
+    "justification": "The text does not demonstrate any self-effacing behavior or tendency to belittle oneself.",
+    "confidence": 5
+  },
+  "Regularity of Self-Reflection": {
+    "score": 1,
+    "justification": "There is no indication of regular self-reflection in the text.",
+    "confidence": 5
+  },
+  "Individuality": {
+    "score": 2,
+    "justification": "The text shows some level of individuality by expressing personal feelings and opinions.",
+    "confidence": 4
+  },
+  "Self- Efficacy": {
+    "score": 3,
+    "justification": "The text demonstrates some level of self-efficacy by taking the initiative to express dissatisfaction with the service and seeking change.",
+    "confidence": 5
+  },
+  "Statistical Reasoning": {
+    "score": 1,
+    "justification": "The text does not demonstrate any statistical reasoning or numerical analysis.",
+    "confidence": 5
+  },
+  "Mindfulness facet: Observing": {
+    "score": 2,
+    "justification": "The text shows some awareness of the situation, but it is more focused on emotional reaction than mindful observation.",
+    "confidence": 4
+  },
+  "Innovation and Creativity Components": {
+    "score": 1,
+    "justification": "There is no demonstration of innovative or creative thinking in the text.",
+    "confidence": 5
+  },
+  "Inattentiveness": {
+    "score": 3,
+    "justification": "The text shows some attention to the situation, but it is primarily focused on emotional reaction rather than careful consideration.",
+    "confidence": 4
+  },
+  "Decision-making decisiveness": {
+    "score": 2,
+    "justification": "The text does not demonstrate decisive decision-making, as the speaker is more focused on expressing anger and frustration.",
+    "confidence": 4
+  },
+  "Spatial perception": {
+    "score": 1,
+    "justification": "There is no mention of spatial perception or any related concepts in the text.",
+    "confidence": 5
+  },
+  "Logical Sequence Identification": {
+    "score": 2,
+    "justification": "The text does not demonstrate logical sequence identification, as it primarily focuses on emotional reaction rather than careful analysis.",
+    "confidence": 4
+  },
+  "Preferred epistemology": {
+    "score": 1,
+    "justification": "There is no mention of preferred epistemology or any related concepts in the text.",
+    "confidence": 5
+  },
+  "Memory for Sounds": {
+    "score": 1,
+    "justification": "The text does not demonstrate memory for sounds or any related concepts.",
+    "confidence": 5
+  },
+  "Synthesis of information": {
+    "score": 2,
+    "justification": "The text shows some synthesis of information in the sense that it combines emotions and frustration, but it is primarily focused on expressing those feelings rather than analyzing them.",
+    "confidence": 4
+  },
+  "Critical reasoning": {
+    "score": 1,
+    "justification": "There is no demonstration of critical reasoning or any related concepts in the text.",
+    "confidence": 5
+  },
+  "Auditory memory": {
+    "score": 1,
+    "justification": "The text does not demonstrate auditory memory or any related concepts.",
+    "confidence": 5
+  },
+  "Mysteriousness": {
+    "score": 1,
+    "justification": "There is no mention of mysteriousness or any related concepts in the text.",
+    "confidence": 5
+  },
+  "Psychoticism": {
+    "score": 1,
+    "justification": "The text does not demonstrate psychoticism or any related concepts.",
+    "confidence": 5
+  },
+  "Perceiving": {
+    "score": 2,
+    "justification": "The text shows some perceiving in the sense that it observes the situation and expresses emotions, but it is primarily focused on emotional reaction rather than careful consideration.",
+    "confidence": 4
+  },
+  "Judging (J)": {
+    "score": 1,
+    "justification": "There is no mention of judging or any related concepts in the text.",
+    "confidence": 5
+  },
+  "Psychological construct: Operant-Learning rate": {
+    "score": 1,
+    "justification": "The text does not demonstrate operant-learning rate or any related concepts.",
+    "confidence": 5
+  },
+  "Evaluating Solutions": {
+    "score": 2,
+    "justification": "The text shows some evaluating of the situation in the sense that it expresses frustration and anger, but it is primarily focused on emotional reaction rather than careful analysis.",
+    "confidence": 4
+  },
+  "Input": {
+    "score": 1,
+    "justification": "There is no mention of input or any related concepts in the text.",
+    "confidence": 5
+  },
+  "Creativity in solutions": {
+    "score": 1,
+    "justification": "The text does not demonstrate creativity in solutions or any related concepts.",
+    "confidence": 5
+  },
+  "Understanding Mathematical Concepts": {
+    "score": 1,
+    "justification": "There is no mention of understanding mathematical concepts or any related concepts in the text.",
+    "confidence": 5
+  },
+  "Activator: Turning thoughts into action": {
+    "score": 2,
+    "justification": "The text shows some activation in the sense that it expresses emotions and frustration, but it is primarily focused on emotional reaction rather than careful consideration.",
+    "confidence": 4
+  },
+  "Psychological construct: Executive-Function composite": {
+    "score": 1,
+    "justification": "The text does not demonstrate executive-function composite or any related concepts.",
+    "confidence": 5
+  },
+  "Intellect": {
+    "score": 2,
+    "justification": "The text shows some intellect in the sense that it expresses emotions and frustration, but it is primarily focused on emotional reaction rather than careful consideration.",
+    "confidence": 4
+  },
+  "Auditory Memory Recall": {
+    "score": 1,
+    "justification": "There is no mention of auditory memory recall or any related concepts in the text.",
+    "confidence": 5
+  },
+  "Comprehension of spoken information": {
+    "score": 2,
+    "justification": "The text shows some comprehension of spoken information in the sense that it expresses emotions and frustration, but it is primarily focused on emotional reaction rather than careful consideration.",
+    "confidence": 4
+  },
+  "Sequential Memory Recall": {
+    "score": 1,
+    "justification": "There is no mention of sequential memory recall or any related concepts in the text.",
+    "confidence": 5
+  },
+  "Suspicion": {
+    "score": 2,
+    "justification": "The text shows some suspicion in the sense that it expresses frustration and anger, but it is primarily focused on emotional reaction rather than careful consideration.",
+    "confidence": 4
+  },
+  "Ideas generated/day": {
+    "score": 1,
+    "justification": "There is no mention of ideas generated per day or any related concepts in the text.",
+    "confidence": 5
+  },
+  "Analogies": {
+    "score": 1,
+    "justification": "The text does not demonstrate analogies or any related concepts.",
+    "confidence": 5
+  },
+  "Intelligence Quotient (IQ)": {
+    "score": 1,
+    "justification": "There is no mention of intelligence quotient or any related concepts in the text.",
+    "confidence": 5
+  },
+  "Decision-making speed": {
+    "score": 2,
+    "justification": "The text shows some decision-making speed in the sense that it expresses emotions and frustration quickly, but it is primarily focused on emotional reaction rather than careful consideration.",
+    "confidence": 4
+  },
+  "Psychological construct: Excuse-Making tendency": {
+    "score": 1,
+    "justification": "The text does not demonstrate excuse-making tendency or any related concepts.",
+    "confidence": 5
+  },
+  "Conscientiousness (C)": {
+    "score": 2,
+    "justification": "The text shows some conscientiousness in the sense that it expresses emotions and frustration, but it is primarily focused on emotional reaction rather than careful consideration.",
+    "confidence": 4
+  },
+  "Attitude toward learning": {
+    "score": 1,
+    "justification": "There is no mention of attitude toward learning or any related concepts in the text.",
+    "confidence": 5
+  },
+  "Sensationalism": {
+    "score": 2,
+    "justification": "The text shows some sensationalism in the sense that it expresses strong emotions and frustration, but it is primarily focused on emotional reaction rather than careful consideration.",
+    "confidence": 4
+  },
+  "Cognitive measure: Working Memory Index": {
+    "score": 1,
+    "justification": "There is no mention of working memory index or any related concepts in the text.",
+    "confidence": 5
+  },
+  "Numerical Reasoning": {
+    "score": 1,
+    "justification": "The text does not demonstrate numerical reasoning or any related concepts.",
+    "confidence": 5
+  },
+  "Social-cognition variable: Mentalizing network activation": {
+    "score": 1,
+    "justification": "There is no mention of mentalizing network activation or any related concepts in the text.",
+    "confidence": 5
+  },
+  "Anticipativeness": {
+    "score": 2,
+    "justification": "The text shows some anticipativeness in the sense that it expresses emotions and frustration, but it is primarily focused on emotional reaction rather than careful consideration.",
+    "confidence": 4
+  },
+  "Decision-Making Confidence": {
+    "score": 2,
+    "justification": "The text shows some decision-making confidence in the sense that it expresses emotions and frustration, but it is primarily focused on emotional reaction rather than careful consideration.",
+    "confidence": 4
+  },
+  "Creative resilience": {
+    "score": 1,
+    "justification": "There is no mention of creative resilience or any related concepts in the text.",
+    "confidence": 5
+  },
+  "Rapid cognitive processing": {
+    "score": 2,
+    "justification": "The text shows some rapid cognitive processing in the sense that it expresses emotions and frustration quickly, but it is primarily focused on emotional reaction rather than careful consideration.",
+    "confidence": 4
+  },
+  "Economic reasoning": {
+    "score": 1,
+    "justification": "There is no mention of economic reasoning or any related concepts in the text.",
+    "confidence": 5
+  },
+  "Mental Arithmetic Speed": {
+    "score": 1,
+    "justification": "The text does not demonstrate mental arithmetic speed or any related concepts.",
+    "confidence": 5
+  },
+  "Assertiveness and control in relationships": {
+    "score": 1,
+    "justification": "The text does not demonstrate any assertive or controlling behavior in relationships.",
+    "confidence": 5
+  },
+  "Aloofness": {
+    "score": 2,
+    "justification": "The text shows some emotional distance through the use of phrases like 'I am extremely angry', but it is not a clear demonstration of aloofness.",
+    "confidence": 4
+  },
+  "Relationship Building Themes": {
+    "score": 1,
+    "justification": "The text does not contain any themes related to building relationships.",
+    "confidence": 5
+  },
+  "Passive-Aggressive": {
+    "score": 2,
+    "justification": "The text shows some passive-aggressive behavior through the use of phrases like 'I am extremely angry', but it is not a clear demonstration of this facet.",
+    "confidence": 4
+  },
+  "Submissiveness": {
+    "score": 1,
+    "justification": "The text does not demonstrate any submissive behavior.",
+    "confidence": 5
+  },
+  "Psychological construct: Social Desirability tendency": {
+    "score": 2,
+    "justification": "The text may be influenced by the social desirability bias due to its negative tone towards the service, but it is not a clear demonstration of this facet.",
+    "confidence": 4
+  },
+  "Listening Skills Subcomponents": {
+    "score": 1,
+    "justification": "The text does not demonstrate any listening skills or subcomponents.",
+    "confidence": 5
+  },
+  "Social Boldness": {
+    "score": 2,
+    "justification": "The text shows some boldness through the use of strong language like 'terrible' and 'extremely angry', but it is not a clear demonstration of this facet.",
+    "confidence": 4
+  },
+  "Social Interaction Skills": {
+    "score": 1,
+    "justification": "The text does not demonstrate any social interaction skills.",
+    "confidence": 5
+  },
+  "Affection": {
+    "score": 1,
+    "justification": "The text does not contain any affectionate language or tone.",
+    "confidence": 5
+  },
+  "Hostility": {
+    "score": 4,
+    "justification": "The text demonstrates hostility through the use of strong language like 'terrible' and 'extremely angry'.",
+    "confidence": 5
+  },
+  "Need for social interaction": {
+    "score": 2,
+    "justification": "The text does not demonstrate a clear need for social interaction.",
+    "confidence": 4
+  },
+  "Ey-contact duration": {
+    "score": 1,
+    "justification": "The text does not provide any information about eye contact duration.",
+    "confidence": 5
+  },
+  "Character strength: Social Intelligence": {
+    "score": 2,
+    "justification": "The text may demonstrate some social intelligence through its ability to express frustration and anger effectively, but it is not a clear demonstration of this facet.",
+    "confidence": 4
+  },
+  "Language use": {
+    "score": 3,
+    "justification": "The text uses strong language like 'terrible' and 'extremely angry', which demonstrates some effective communication skills.",
+    "confidence": 5
+  },
+  "Depth of Emotional Connections": {
+    "score": 2,
+    "justification": "The text does not demonstrate a clear depth of emotional connections with the service or its representatives.",
+    "confidence": 4
+  },
+  "Behavioral Tendencies and Subcomponents": {
+    "score": 1,
+    "justification": "The text does not provide any information about behavioral tendencies or subcomponents.",
+    "confidence": 5
+  },
+  "Adaptability and Flexibility Subcomponents": {
+    "score": 1,
+    "justification": "The text does not demonstrate any adaptability or flexibility in its communication style.",
+    "confidence": 5
+  },
+  "Social-cognition variable: Cognitive Empathy": {
+    "score": 2,
+    "justification": "The text may demonstrate some cognitive empathy through its ability to understand the frustration and anger caused by the service, but it is not a clear demonstration of this facet.",
+    "confidence": 4
+  },
+  "Talkativeness": {
+    "score": 3,
+    "justification": "The text demonstrates talkativeness through its use of strong language like 'terrible' and 'extremely angry'.",
+    "confidence": 5
+  },
+  "Social Desirability Bias": {
+    "score": 2,
+    "justification": "The text may be influenced by the social desirability bias due to its negative tone towards the service, but it is not a clear demonstration of this facet.",
+    "confidence": 4
+  },
+  "Disagreeableness": {
+    "score": 3,
+    "justification": "The text demonstrates disagreeableness through its strong language and negative tone towards the service.",
+    "confidence": 5
+  },
+  "Tendency Toward Compromise or Confrontation": {
+    "score": 2,
+    "justification": "The text does not demonstrate a clear tendency toward compromise or confrontation.",
+    "confidence": 4
+  },
+  "Robotics-interaction frequency": {
+    "score": 1,
+    "justification": "The text does not provide any information about robotics-interaction frequency.",
+    "confidence": 5
+  },
+  "Psychological construct: Social Conformity tendency": {
+    "score": 2,
+    "justification": "The text may be influenced by the social conformity tendency due to its negative tone towards the service, but it is not a clear demonstration of this facet.",
+    "confidence": 4
+  },
+  "Non-Verbal Communication Skills": {
+    "score": 1,
+    "justification": "The text does not provide any information about non-verbal communication skills.",
+    "confidence": 5
+  },
+  "Psychological construct: Eye-Contact avoidance score": {
+    "score": 1,
+    "justification": "The text does not provide any information about eye-contact avoidance score.",
+    "confidence": 5
+  },
+  "Social-cognition variable: Faux Pas Recognition accuracy": {
+    "score": 1,
+    "justification": "The text does not provide any information about faux pas recognition accuracy.",
+    "confidence": 5
+  },
+  "Cooperation": {
+    "score": 2,
+    "justification": "The text does not demonstrate a clear cooperation with the service or its representatives.",
+    "confidence": 4
+  },
+  "Delegation Ability": {
+    "score": 1,
+    "justification": "The text does not provide any information about delegation ability.",
+    "confidence": 5
+  },
+  "Civility": {
+    "score": 2,
+    "justification": "The text demonstrates some civility through its use of strong language like 'terrible' and 'extremely angry', but it is not a clear demonstration of this facet.",
+    "confidence": 4
+  },
+  "Control over situations": {
+    "score": 1,
+    "justification": "The text does not demonstrate any control over the situation with the service.",
+    "confidence": 5
+  },
+  "Psychological construct: Identity Diffusion level": {
+    "score": 2,
+    "justification": "The text may be influenced by the identity diffusion level due to its negative tone towards the service, but it is not a clear demonstration of this facet.",
+    "confidence": 4
+  },
+  "Additional Common Parameters and Their End Points": {
+    "score": 1,
+    "justification": "The text does not provide any information about additional common parameters or their end points.",
+    "confidence": 5
+  },
+  "Connectedness: Belief in interconnections": {
+    "score": 2,
+    "justification": "The text may demonstrate some connectedness through its ability to express frustration and anger effectively, but it is not a clear demonstration of this facet.",
+    "confidence": 4
+  },
+  "Cordiality": {
+    "score": 1,
+    "justification": "The text does not demonstrate any cordiality towards the service or its representatives.",
+    "confidence": 5
+  },
+  "Adventure-Seeking Behavior": {
+    "score": 1,
+    "justification": "The text does not demonstrate any behavior that suggests a desire for adventure or taking risks.",
+    "confidence": 5
+  },
+  "Affiliation Motivation": {
+    "score": 2,
+    "justification": "The text shows some indication of frustration and anger due to the service being 'terrible', but it is not clear if this is driven by a desire for affiliation or social connection.",
+    "confidence": 4
+  },
+  "Achievement Motivation": {
+    "score": 3,
+    "justification": "The text suggests that the individual has a strong desire to achieve their goals and be successful, as evidenced by their frustration with being on hold for 45 minutes.",
+    "confidence": 5
+  },
+  "Intrinsic Motivation": {
+    "score": 2,
+    "justification": "While the text shows some indication of internal motivation (frustration), it is not clear if this is driven by a desire to do something for its own sake or because of external pressures.",
+    "confidence": 4
+  },
+  "Encouraging participation": {
+    "score": 1,
+    "justification": "The text does not demonstrate any behavior that suggests encouraging others to participate in an activity or process.",
+    "confidence": 5
+  },
+  "Desire for excellence": {
+    "score": 3,
+    "justification": "The text suggests that the individual has a strong desire to achieve their goals and be successful, which implies a desire for excellence.",
+    "confidence": 5
+  },
+  "Psychological construct: Need for Achievement level": {
+    "score": 2,
+    "justification": "While the text shows some indication of achievement motivation, it is not clear if this is driven by a high or low need for achievement.",
+    "confidence": 4
+  },
+  "Contribution to Group Goals": {
+    "score": 1,
+    "justification": "The text does not demonstrate any behavior that suggests contributing to group goals or working towards a collective objective.",
+    "confidence": 5
+  },
+  "Goal-Directed Behavior": {
+    "score": 3,
+    "justification": "The text shows some indication of goal-directed behavior, as the individual is frustrated with being on hold for 45 minutes and wants to achieve their goal of resolving the issue.",
+    "confidence": 5
+  },
+  "Significance: Desire to make an impact": {
+    "score": 2,
+    "justification": "While the text suggests that the individual has a strong desire to achieve their goals and be successful, it is not clear if this is driven by a desire to make a significant impact or leave a lasting impression.",
+    "confidence": 4
+  },
+  "Initiative": {
+    "score": 3,
+    "justification": "The text shows some indication of initiative, as the individual takes action (complaining) in response to the frustrating situation.",
+    "confidence": 5
+  },
+  "Motivational Drivers": {
+    "score": 2,
+    "justification": "While the text suggests that the individual has strong motivational drivers (frustration), it is not clear what specific factors are driving their motivation.",
+    "confidence": 4
+  },
+  "Desire to influence others": {
+    "score": 1,
+    "justification": "The text does not demonstrate any behavior that suggests a desire to influence or persuade others.",
+    "confidence": 5
+  },
+  "Anatomy knowledge": {
+    "score": 1,
+    "justification": "The text does not demonstrate any knowledge of anatomy.",
+    "confidence": 5
+  },
+  "Network basics": {
+    "score": 1,
+    "justification": "The text does not mention network basics or any related concepts.",
+    "confidence": 5
+  },
+  "Alphabetical filing skills": {
+    "score": 1,
+    "justification": "The text does not demonstrate any filing skills, alphabetical or otherwise.",
+    "confidence": 5
+  },
+  "Competition": {
+    "score": 2,
+    "justification": "The text mentions being 'extremely angry', which could be interpreted as a competitive response to frustration.",
+    "confidence": 4
+  },
+  "Precision of Movements": {
+    "score": 1,
+    "justification": "The text does not demonstrate any precision of movements or related concepts.",
+    "confidence": 5
+  },
+  "Psychomotor Ability Subcomponents": {
+    "score": 1,
+    "justification": "The text does not mention psychomotor ability or its subcomponents.",
+    "confidence": 5
+  },
+  "Skill-endorsements count": {
+    "score": 1,
+    "justification": "The text does not provide any information about skill endorsements or counting.",
+    "confidence": 5
+  },
+  "Data Analysis": {
+    "score": 1,
+    "justification": "The text does not demonstrate any data analysis skills or concepts.",
+    "confidence": 5
+  },
+  "Numeric Filing Skills": {
+    "score": 1,
+    "justification": "The text does not mention numeric filing skills or related concepts.",
+    "confidence": 5
+  },
+  "Material properties knowledge": {
+    "score": 1,
+    "justification": "The text does not demonstrate any knowledge of material properties.",
+    "confidence": 5
+  },
+  "Cooking and Culinary Arts": {
+    "score": 1,
+    "justification": "The text does not mention cooking or culinary arts.",
+    "confidence": 5
+  },
+  "Dance-style mastery diversity": {
+    "score": 1,
+    "justification": "The text does not demonstrate any knowledge of dance styles or mastery.",
+    "confidence": 5
+  },
+  "Divided Attention Ability": {
+    "score": 1,
+    "justification": "The text does not mention divided attention ability or related concepts.",
+    "confidence": 5
+  },
+  "Storytelling proficiency": {
+    "score": 1,
+    "justification": "The text does not demonstrate any storytelling skills or proficiency.",
+    "confidence": 5
+  },
+  "Music-lessons years": {
+    "score": 1,
+    "justification": "The text does not mention music lessons or years of experience.",
+    "confidence": 5
+  },
+  "Soft-skill training hours": {
+    "score": 1,
+    "justification": "The text does not provide any information about soft-skills training or hours.",
+    "confidence": 5
+  },
+  "Adaptability and Flexibility": {
+    "score": 2,
+    "justification": "The text mentions being 'extremely angry', which could be interpreted as a lack of adaptability and flexibility in the face of frustration.",
+    "confidence": 4
+  },
+  "Clumsiness": {
+    "score": 1,
+    "justification": "The text does not mention clumsiness or related concepts.",
+    "confidence": 5
+  },
+  "Delegation skills": {
+    "score": 1,
+    "justification": "The text does not demonstrate any delegation skills or concepts.",
+    "confidence": 5
+  },
+  "Learning Style": {
+    "score": 1,
+    "justification": "The text does not provide any information about learning styles or preferences.",
+    "confidence": 5
+  },
+  "Learning through movement": {
+    "score": 1,
+    "justification": "The text does not mention learning through movement or related concepts.",
+    "confidence": 5
+  },
+  "Troubleshooting technical issues": {
+    "score": 1,
+    "justification": "The text does not demonstrate any troubleshooting skills or concepts.",
+    "confidence": 5
+  },
+  "Computer Skills": {
+    "score": 1,
+    "justification": "The text does not provide any information about computer skills or proficiency.",
+    "confidence": 5
+  },
+  "Compulsive activities": {
+    "score": 1,
+    "justification": "The text does not mention any compulsive activities related to health or wellness habits.",
+    "confidence": 5
+  },
+  "Dance-cardio sessions": {
+    "score": 1,
+    "justification": "There is no mention of dance-cardio sessions in the provided text.",
+    "confidence": 5
+  },
+  "Health-literacy level": {
+    "score": 1,
+    "justification": "The text does not provide any information about the individual's health-literacy level.",
+    "confidence": 5
+  },
+  "Sleep-disorder diagnosis": {
+    "score": 1,
+    "justification": "There is no mention of a sleep disorder or diagnosis in the provided text.",
+    "confidence": 5
+  },
+  "Organized lifestyle": {
+    "score": 2,
+    "justification": "The text mentions that the individual has been on hold for 45 minutes, which could imply some level of disorganization, but it's not a clear demonstration of an organized lifestyle.",
+    "confidence": 4
+  },
+  "Parathyroid-hormone level": {
+    "score": 1,
+    "justification": "There is no mention of parathyroid-hormone levels in the provided text.",
+    "confidence": 5
+  },
+  "Physical-violence exposure": {
+    "score": 1,
+    "justification": "The text does not suggest any physical violence or exposure to it.",
+    "confidence": 5
+  },
+  "Macronutrient ratio: fat": {
+    "score": 1,
+    "justification": "There is no mention of macronutrient ratios or fat intake in the provided text.",
+    "confidence": 5
+  },
+  "Sleep-environment temperature": {
+    "score": 1,
+    "justification": "The text does not provide any information about sleep environment temperature.",
+    "confidence": 5
+  },
+  "Metabolic Rate (Low or High)": {
+    "score": 1,
+    "justification": "There is no mention of metabolic rate in the provided text.",
+    "confidence": 5
+  },
+  "Dietary Habits": {
+    "score": 2,
+    "justification": "The text mentions that the individual is 'extremely angry', which could be related to their dietary habits or lack thereof, but it's not a clear demonstration of specific dietary habits.",
+    "confidence": 4
+  },
+  "Macronutrient ratio: carbs": {
+    "score": 1,
+    "justification": "There is no mention of macronutrient ratios or carb intake in the provided text.",
+    "confidence": 5
+  },
+  "Casual lifestyle": {
+    "score": 2,
+    "justification": "The text mentions that the individual has been on hold for 45 minutes, which could imply some level of frustration and disorganization, but it's not a clear demonstration of a casual lifestyle.",
+    "confidence": 4
+  },
+  "Snacking Behavior": {
+    "score": 1,
+    "justification": "There is no mention of snacking behavior in the provided text.",
+    "confidence": 5
+  },
+  "Impulsivity": {
+    "score": 2,
+    "justification": "The text mentions that the individual is 'extremely angry', which could be related to impulsivity or a lack thereof, but it's not a clear demonstration of impulsivity.",
+    "confidence": 4
+  },
+  "Time outdoors/day (h)": {
+    "score": 1,
+    "justification": "There is no mention of time spent outdoors in the provided text.",
+    "confidence": 5
+  },
+  "Polygenic risk: cardiovascular disease": {
+    "score": 1,
+    "justification": "There is no mention of polygenic risk or cardiovascular disease in the provided text.",
+    "confidence": 5
+  },
+  "Caffeine sensitivity gene": {
+    "score": 1,
+    "justification": "There is no mention of caffeine sensitivity genes in the provided text.",
+    "confidence": 5
+  },
+  "Caffeine intake (mg/day)": {
+    "score": 1,
+    "justification": "There is no mention of caffeine intake or mg/day in the provided text.",
+    "confidence": 5
+  },
+  "Eating Habits (Home-Cooked vs. Eating Out)": {
+    "score": 2,
+    "justification": "The text mentions that the individual is 'extremely angry', which could be related to their eating habits or lack thereof, but it's not a clear demonstration of specific eating habits.",
+    "confidence": 4
+  },
+  "Role of Spirituality in Community Involvement": {
+    "score": 1,
+    "justification": "The text does not mention spirituality or community involvement at all.",
+    "confidence": 5
+  },
+  "Holiness": {
+    "score": 1,
+    "justification": "There is no mention of holiness in the provided text.",
+    "confidence": 5
+  },
+  "Sufi practice: Sufi retreat attendance count": {
+    "score": 1,
+    "justification": "The text does not mention Sufi practice or retreats.",
+    "confidence": 5
+  },
+  "Religious practice: Quran khatam cycles per year": {
+    "score": 1,
+    "justification": "There is no mention of religious practice or Quran khatam in the provided text.",
+    "confidence": 5
+  },
+  "Bah\u00e1\u2019\u00ed spiritual metric: Ridv\u00e1n festival participation": {
+    "score": 1,
+    "justification": "The text does not mention Bah\u00e1\u2019\u00ed spirituality or the Ridv\u00e1n festival.",
+    "confidence": 5
+  },
+  "Energy-healing practice: Reiki sessions / year": {
+    "score": 1,
+    "justification": "There is no mention of energy-healing practice or Reiki in the provided text.",
+    "confidence": 5
+  },
+  "Astrology: Rising sign is Scorpio": {
+    "score": 2,
+    "justification": "The text mentions astrology (Rising sign is Scorpio), but it does not provide any context or significance to this fact.",
+    "confidence": 4
+  },
+  "Practice frequency: Walking meditation": {
+    "score": 1,
+    "justification": "There is no mention of walking meditation or practice frequency in the provided text.",
+    "confidence": 5
+  },
+  "Gnostic spiritual metric: Archon meditation frequency": {
+    "score": 1,
+    "justification": "The text does not mention Gnosticism or Archon meditation.",
+    "confidence": 5
+  },
+  "Jewish spiritual metric: Sukkot lulav-shaking days": {
+    "score": 1,
+    "justification": "There is no mention of Jewish spirituality or Sukkot in the provided text.",
+    "confidence": 5
+  },
+  "Hindu spiritual metric: Yoga discipline hours / week": {
+    "score": 1,
+    "justification": "The text does not mention Hindu spirituality or yoga practice.",
+    "confidence": 5
+  },
+  "Hindu spiritual metric: Vrata vows observed / year": {
+    "score": 1,
+    "justification": "There is no mention of Hindu spirituality or vrata vows in the provided text.",
+    "confidence": 5
+  },
+  "Discernment practice hours / week": {
+    "score": 1,
+    "justification": "The text does not mention discernment practice or hours per week.",
+    "confidence": 5
+  },
+  "Practice frequency: Mantra meditation": {
+    "score": 1,
+    "justification": "There is no mention of mantra meditation or practice frequency in the provided text.",
+    "confidence": 5
+  },
+  "Scripture memorization verses": {
+    "score": 1,
+    "justification": "The text does not mention scripture memorization or verses.",
+    "confidence": 5
+  },
+  "Conventional": {
+    "score": 1,
+    "justification": "There is no mention of conventional practices in the provided text.",
+    "confidence": 5
+  },
+  "Hindu spiritual metric: Bhagavad-Gita study hours": {
+    "score": 1,
+    "justification": "The text does not mention Hindu spirituality or Bhagavad-Gita study.",
+    "confidence": 5
+  },
+  "Sacred text engagement: Zohar (Kabbalah) study hours": {
+    "score": 1,
+    "justification": "There is no mention of sacred text engagement or Zohar study in the provided text.",
+    "confidence": 5
+  },
+  "Islamic practice: Seerah study hours": {
+    "score": 1,
+    "justification": "The text does not mention Islamic practice or Seerah study.",
+    "confidence": 5
+  },
+  "Sikh spiritual metric: Kirtan participation frequency": {
+    "score": 1,
+    "justification": "There is no mention of Sikh spirituality or kirtan participation in the provided text.",
+    "confidence": 5
+  },
+  "Kabbalah sephira balance: Tiferet": {
+    "score": 1,
+    "justification": "The text does not mention Kabbalah or sephira balance.",
+    "confidence": 5
+  },
+  "New-Age spiritual metric: Channeling sessions / year": {
+    "score": 1,
+    "justification": "There is no mention of New-Age spirituality or channeling sessions in the provided text.",
+    "confidence": 5
+  },
+  "Sacred text engagement: Quran surahs memorized": {
+    "score": 1,
+    "justification": "The text does not mention sacred text engagement or Quran surahs memorization.",
+    "confidence": 5
+  },
+  "Buddhist practice: Eightfold Path \u2013 Right Intention level": {
+    "score": 1,
+    "justification": "There is no mention of Buddhist practice or the Eightfold Path in the provided text.",
+    "confidence": 5
+  },
+  "Home-security-system presence": {
+    "score": 1,
+    "justification": "The text does not mention home security systems.",
+    "confidence": 5
+  },
+  "Types of Mindfulness Techniques Used": {
+    "score": 1,
+    "justification": "There is no mention of mindfulness techniques or types used in the provided text.",
+    "confidence": 5
+  },
+  "Jewish spiritual metric: Shabbat candle-lighting consistency": {
+    "score": 1,
+    "justification": "The text does not mention Jewish spirituality or Shabbat candle-lighting.",
+    "confidence": 5
+  },
+  "Sufi practice: Dhikr repetitions / day": {
+    "score": 1,
+    "justification": "There is no mention of Sufi practice or dhikr repetitions in the provided text.",
+    "confidence": 5
+  },
+  "Impracticalness": {
+    "score": 5,
+    "justification": "The text is a direct expression of the author's emotional experience and does not provide any practical information or solutions.",
+    "confidence": 5
+  },
+  "Brevity": {
+    "score": 1,
+    "justification": "The text is quite lengthy and lacks concise language.",
+    "confidence": 4
+  },
+  "Orderliness": {
+    "score": 2,
+    "justification": "The text has a clear structure, but the sentences are not particularly well-organized or logical.",
+    "confidence": 3
+  },
+  "Discreteness": {
+    "score": 1,
+    "justification": "The text lacks specific details and is quite vague in its descriptions.",
+    "confidence": 4
+  },
+  "Frankness": {
+    "score": 5,
+    "justification": "The text openly expresses the author's emotions and opinions without hesitation or subtlety.",
+    "confidence": 5
+  },
+  "Coarseness": {
+    "score": 3,
+    "justification": "The text contains strong language and a negative tone, but it is not excessively crude or offensive.",
+    "confidence": 4
+  },
+  "Concreteness": {
+    "score": 2,
+    "justification": "The text describes the author's emotional experience in general terms, but lacks specific concrete details.",
+    "confidence": 3
+  },
+  "Sentence Structure": {
+    "score": 2,
+    "justification": "The text contains simple sentences that are not particularly complex or varied in structure.",
+    "confidence": 3
+  },
+  "Understanding mechanical concepts": {
+    "score": 1,
+    "justification": "The text does not contain any information about mechanical concepts or technical details.",
+    "confidence": 4
+  },
+  "Classiness": {
+    "score": 2,
+    "justification": "The text lacks refinement and sophistication in its language and tone.",
+    "confidence": 3
+  },
+  "Aestheticism": {
+    "score": 1,
+    "justification": "The text does not contain any elements of beauty or artistic expression.",
+    "confidence": 4
+  },
+  "Big Five facet Openness \u2013 Artistic Interests": {
+    "score": 1,
+    "justification": "The text does not mention artistic interests or openness to experience at all.",
+    "confidence": 5
+  },
+  "Cultural Identity": {
+    "score": 2,
+    "justification": "The text mentions the person's emotional state ('extremely angry'), but does not provide any information about their cultural identity.",
+    "confidence": 4
+  },
+  "Arts and Humanities": {
+    "score": 1,
+    "justification": "There is no mention of arts or humanities in the provided text.",
+    "confidence": 5
+  },
+  "Eco-tourism trips": {
+    "score": 1,
+    "justification": "The text does not mention eco-tourism trips at all.",
+    "confidence": 5
+  },
+  "Information Retention": {
+    "score": 1,
+    "justification": "There is no indication of the person's ability to retain information in the provided text.",
+    "confidence": 5
+  },
+  "Kink-interest diversity": {
+    "score": 1,
+    "justification": "The text does not mention kink interests or diversity at all.",
+    "confidence": 5
+  },
+  "Museum visits/year": {
+    "score": 1,
+    "justification": "There is no information about museum visits in the provided text.",
+    "confidence": 5
+  },
+  "Participation in Community Activities": {
+    "score": 1,
+    "justification": "The text does not mention participation in community activities at all.",
+    "confidence": 5
+  },
+  "Blogs-subscriber count": {
+    "score": 1,
+    "justification": "There is no information about blog subscribers or counts in the provided text.",
+    "confidence": 5
+  },
+  "Drug-use history": {
+    "score": 1,
+    "justification": "The text does not mention drug use or history at all.",
+    "confidence": 5
+  },
+  "Commute time/day": {
+    "score": 1,
+    "justification": "There is no information about commute times in the provided text.",
+    "confidence": 5
+  },
+  "Nationality": {
+    "score": 1,
+    "justification": "The text does not mention nationality at all.",
+    "confidence": 5
+  },
+  "Travel-companions diversity": {
+    "score": 1,
+    "justification": "There is no information about travel companions or diversity in the provided text.",
+    "confidence": 5
+  },
+  "Pet-enrichment activities count": {
+    "score": 1,
+    "justification": "The text does not mention pets or enrichment activities at all.",
+    "confidence": 5
+  },
+  "Hardworking": {
+    "score": 1,
+    "justification": "The text does not demonstrate any effort or dedication to work-related tasks.",
+    "confidence": 5
+  },
+  "Leadership Potential": {
+    "score": 2,
+    "justification": "The text shows some frustration and anger, but no indication of leadership skills or potential.",
+    "confidence": 4
+  },
+  "Collaboration": {
+    "score": 1,
+    "justification": "There is no mention of collaboration or working with others in the provided text.",
+    "confidence": 5
+  },
+  "Meeting Deadlines": {
+    "score": 2,
+    "justification": "The text does not specifically address meeting deadlines, but implies a sense of frustration and urgency.",
+    "confidence": 4
+  },
+  "Peer-collaboration hours": {
+    "score": 1,
+    "justification": "This facet is irrelevant to the provided text, which only discusses individual experience with a service.",
+    "confidence": 5
+  },
+  "Transactional Leadership": {
+    "score": 1,
+    "justification": "The text does not demonstrate any leadership skills or styles, transactional or otherwise.",
+    "confidence": 5
+  },
+  "Patient care orientation": {
+    "score": 1,
+    "justification": "This facet is unrelated to the provided text, which discusses a service and individual experience.",
+    "confidence": 5
+  },
+  "Time Orientation End Points": {
+    "score": 2,
+    "justification": "The text mentions being on hold for 45 minutes, but does not demonstrate any specific time orientation or end points.",
+    "confidence": 4
+  },
+  "Leadership Styles": {
+    "score": 1,
+    "justification": "There is no mention of leadership styles in the provided text, which only discusses individual experience with a service.",
+    "confidence": 5
+  }
+}
